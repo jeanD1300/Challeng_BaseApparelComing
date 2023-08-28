@@ -5,7 +5,7 @@ This is a solution to the [Base Apparel coming soon page challenge on Frontend M
 
 ## Overview
 
-[](/images/desktop.preview.jpg)
+![](/images/desktop-preview.jpg)
 
 ### The challenge
 
